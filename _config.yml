@@ -1,16 +1,16 @@
 ---
-repository: royalhackaway/royalhackaway.github.io
+repository: abhishek7389/hackathon-template-jekyll
 include: ["index.html", "_events",]
 
 # Homepage settings
-splash_title: 'Organisation name'
-splash_subtitle: 'This is a subtitle'
-homepage_banner_image: photos/home_banner.jpg
+splash_title: 'MLH Local Hack Day: Build'
+splash_subtitle: 'Collebaration fist, code second'
+homepage_banner_image: photos/hackday.png
 display_ad: true
 
 
 
-footer-description: "Royal Hackaway is a student-run group that hosts hackathons at Royal Holloway, University of London."
+footer-description: "uild your way to greatness all week long at LHD: Build by completing challenges both big and small. You’ll expand your network, skillset, and hacker portfolio, and earn yourself rewards."
 
 
 # Links for the navbar
@@ -31,17 +31,17 @@ socials:
   -
     icon: "facebook-white.svg"
     name: Facebook
-    url: "https://facebook.com/royalhackaway"
+    url: "https://www.facebook.com/MajorLeagueHacking/"
   -
     icon: "twitter.svg"
     name: Twitter
-    url: "https://twitter.com/royalhackaway"
+    url: "https://twitter.com/MLHacks?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
   -
     icon: "github-mark.png"
     name: GitHub
-    url: "https://github.com/royalhackaway"
+    url: "https://github.com/MLH"
 
-email: hello@royalhackaway.com
+email: hi@mlh.io
 
 
 collections:
